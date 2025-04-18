@@ -1,0 +1,1 @@
+This is a web gallery that has the ability to retrieve media from the configured media server.
