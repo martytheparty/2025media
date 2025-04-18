@@ -1,0 +1,1 @@
+This is just a local server.  It should be a server that is capable of serving images, movies, markup, css, js...  This is for testing.  I am using Dreamhost for my application, but I don't want to do any server side processing.

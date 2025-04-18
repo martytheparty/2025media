@@ -1,0 +1,12 @@
+{
+  "name": "web-gallery",
+  "version": "1.0.0",
+  "description": "This is a web gallery that has the ability to retrieve media from the configured media server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
