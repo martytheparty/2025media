@@ -3,13 +3,7 @@
   "version": "1.0.0",
   "description": "A system to assist in making images and videos available for viewing and download.",
   "private": true,
-  "workspaces": [
-    "capture-app",
-    "media-server",
-    "web-gallery"
-  ],
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "Apache-2.0"
